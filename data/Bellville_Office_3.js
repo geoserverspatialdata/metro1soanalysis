@@ -1,0 +1,1 @@
+var json_Bellville_Office_3 = {"type":"FeatureCollection","name":"Bellville_Office_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Office":"Bellville","Lat":-33.90162,"Long":18.6305,"Address":"52 Voortrekker Rd Bellville"},"geometry":{"type":"Point","coordinates":[18.630503,-33.901624]}}]}
